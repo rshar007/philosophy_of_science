@@ -16,100 +16,105 @@
    # Introduce the problem and who proposed it
    # Attention grabbing scientific examples:
    # all life requires water
-   Many scientists who look for life on other planets would agree that
-   ``all life requires  water'' is a good hypothesis. In  this paper I
-   will examine such sentences by examining Carl Gustav Hempel's Raven
-   paradox  and its  relevance  to  the domain  of  the Philosophy  of
-   Science.  Hempel  asks us to  consider the hypothesis  ``all ravens
+   Scientists looking for life on other planets might propose a
+   hypothesis: ``all life requires water.'' In this paper I will
+   examine such sentences by examining Carl Gustav Hempel's Raven
+   paradox. Hempel asks us to consider the hypothesis ``all ravens
    are black,'' by giving us three premises and a conclusion.
 
-   His  first   premise  states   that  ``all  non-black   things  are
-   non-ravens'' is logically equivalent to the hypothesis, which means
-   both statements  are true  if and  only if the  other is  true.  In
-   other words, they  hold the same truth conditions; if  it turns out
-   that we can find a white-raven, then our hypothesis is false and it
-   is not true that ``all non-black things are non-ravens'' because we
-   have  found a  non-black  thing  that is  a  raven. Hempel's  first
-   premise appears plausible from the  fact that for every conceivable
-   universe  in which  the hypothesis  is true,  requires the  logical
-   equivalent sentence to be true too.
+   Hempel's first premise states that ``all non-black things are
+   non-ravens'' is logically equivalent to ``all ravens are black.''
+   By logically equivalent, we mean that both statements are true if
+   and only if the other is true; the two sentences hold the same
+   truth conditions. If it turns out that there are white-ravens, then
+   both sentences are false. Conversely, if all ravens really are all
+   black, then both sentences are true.  Hempel's first premise is
+   plausible because every conceivable universe in which the
+   hypothesis is true, requires the logical equivalent sentence to be
+   true too.
 
 # Second premise
    # Nicod's criterion and explanation of the idea
-   Carl Hempel's second premise is Jean George Pierre Nicod's
+   Hempel's second premise is Jean George Pierre Nicod's
    generalization, which says that when we propose a hypothesis like
    ``All F's are G's'', and we find an F that is a G, we have found
-   support for the hypothesis.  More concretely, when we propose that
-   ``all life requires water,'' we find support for this hypothesis
-   whenever we find an organism that requires water.
+   support for the hypothesis.  More concretely, when we say
+   ``all life requires water,'' we confirm the hypothesis by
+   finding examples of organisms that require water.
 
 # Third premise
    # Equivalence condition and explanation of the idea
    Hempel's third premise is what inductive logicians call the
-   equivalence condition. Put simply it says that an observation or
-   evidence that supports a hypothesis is support for any and all of
-   its logical equivalents. A logically equivalent statement
-   for ``all life requires water'' is ``either something is
-   not-alive or it requires water.'' Thus, if we look outside our
-   living room window and see an owl drinking water from, we could
-   reasonably say that we have found some support for our hypothesis
-   and its logical equivalent.
+   equivalence condition. The condition says that evidence that
+   supports a hypothesis also supports any and all logical
+   equivalents. A logically equivalent statement for ``all life
+   requires water'' is ``either something is not-alive or it requires
+   water.'' Thus, looking out a window and seeing an
+   owl drinking water, supports the hypothesis ``either something is
+   not-alive or it requires water.''
 
 # Conclusion
    # Review the three premises and explain the conclusion
    Putting these three premises together, Hempel demonstrates his
-   paradox: if we have a hypothesis like ``all ravens are black,'' we
-   have logically equivalent sentences, such as ``all non-black things
-   are non-ravens.'' Furthermore, if we see a black raven, we find
-   support for the hypothesis. Then, since support for a hypothesis is
-   support for all of its logical equivalent sentences, we must
-   conclude that an observation of a non-black non-raven, like looking
-   at a white shoe, confirms the hypothesis ``all ravens are black.''
-   Thus, any time I look at something in the world that is a non-black
-   non-raven, I am confirming a hypothesis about the color of corvids.
+   paradox: given a hypothesis, like ``all ravens are black,'' we have
+   a logically equivalent hypothesis: ``all non-black things are
+   non-ravens.'' Then, since confirming one hypothesis confirms its
+   logical equivalents, we must conclude that an observation of a
+   non-black non-raven, like looking at a white shoe, confirms the
+   hypothesis ``all ravens are black.''  Thus, any time I look at
+   something in the world that is a non-black non-raven, I am
+   confirming a hypothesis about the color of corvids.
    
 # Conflict between intuition and conclusion
   # Explain what is supposed to be so weird or bizarre about
   # the conclusion
   As we go about our day to day lives, we don't think we are making
   observations for the support of some hypothesis about ravens, which
-  is why this conclusion is paradoxical. Hempel's response is to
-  accept the conclusion, even if it is unintuitive. Many people find
-  this response unsatisfactory, since observations of ``white shoes''
-  support hypotheses that are absurd, such as ``all ravens wear Air
-  Jordans.''
+  is why this conclusion is paradoxical. Hempel's response to the
+  paradox is to accept the conclusion, even if it is unintuitive. Many
+  people find this response unsatisfactory, since seemingly mundane
+  observations also provide support for absurd hypotheses, like ``all
+  ravens wear Air Jordans,'' since its logical equivalent is ``all
+  non-Air-Jordan-wearing things are non-ravens.'' Thus, the
+  observation of a chair confirms the hypothesis, since it is 
+  a non-Air-Jordan-wearing non-raven.
 
 # Promising solutions to the Paradox
 
 # Solution 1: Science doesn't work this way
    # No scientist would propose such a blanket statement
-   Let us  consider two solutions  to the paradox. The  first proposal
-   comes British  mathematician I.J. Good who  noted that observations
-   of non-black non-ravens may or may not support the hypothesis ``all
-   ravens  are  black''   because  it  depends  on   what  we  already
-   know.  Biologists  understand  that  feather color  is  subject  to
-   variation and  is largely  if not entirely  determined by  a bird's
-   genes.  Thus, the  hypothesis ``all  ravens are  black'' would  not
-   garner support among biologists because they are aware of albinism,
-   gene mutation, and variation in  feather color among populations of
-   corvids. In short, the hypothesis is an artifical one.
-   # fix me - need to state what is wrong with Hempel's paradox
+   Let us consider two solutions to the paradox. The first proposal
+   comes British mathematician I.J. Good who noted that observations
+   of non-black non-ravens may or may not support a hypothesis; Good
+   rejects Nicod's criterion by asking us to consider what we already
+   know; what is our background knowledge.  Biologists understand that
+   feather color is subject to variation and is largely if not
+   entirely determined by a bird's genes.  Thus, because biologists
+   are aware of albinism, gene mutation, and variation in feather
+   color among populations of corvids, such a hypothesis is not
+   accepted or rejected based on how many observations of black ravens
+   we make; the hypothesis is an artificial one, whose veracity does
+   not tell us anything interesting about how scientists' hypotheses
+   are confirmed in the real world.
 
 # Solution 2: Bayesian approach
-   Another solution to the paradox is the Bayesian approach. The
-   Bayesian approach accepts Hempel's conclusion but gives us an extra
-   dimension to consider. Although it is true that the observation of
-   a ``white shoe'' supports the hypothesis ``all ravens are black,''
-   it does not add substantial support the way that the observation of
-   a black raven does. To see why this approach is intuitive, imagine
-   that we hold in our hands a sack that contains an arbitrary number
-   of objects, for example ten white shoes and two ravens. We propose
-   that for all objects in this sack, if it is a raven it is black.
+   Another solution to the paradox is the Bayesian approach, which
+   accepts Hempel's conclusion but asks us to consider the 
+   dimension of probability. This approach says that the observation
+   of a non-black non-raven supports our hypothesis only slightly. 
+   To see why this approach is intuitive, imagine a smaller problem:
+   we propose that ``all ravens in a sack are black.'' In the sack
+   we have several objects, two of which are ravens.
 
-   We begin pulling objects out of the sack with the notion that there
+   We begin pulling objects out of the sack supposing that there
    is a small chance that our hypothesis is correct. If we pull out a
-   black raven, then it seems as though whatever probability we
-   assigned to our hypothesis has now increased significantly. Whereas,
-   if we pulled out a white shoe, we would only increase our confidence
-   slightly, since there now remain less than ten items that could
-   disprove our hypothesis.
+   black raven, then it seems as though the probability that the
+   hypothesis is correct increases significantly, since only a single
+   raven in the sack can disprove our hypothesis. If,
+   however, we pull out a white shoe, then we have decreased the number
+   of objects left to look at. The probability that our hypothesis is
+   correct has only increased slightly. Thus, we can accept Hempel's
+   conclusion without giving up our intuition that the observation of
+   a black raven is more significant that the observation of a non-black
+   non-raven.
+   
