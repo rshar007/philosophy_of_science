@@ -1,0 +1,54 @@
+#+AUTHOR: 204-351-724
+#+TITLE: UCLA Philosophy 08: Paper Assignment #2
+#+OPTIONS: toc:nil
+#+OPTIONS: date:nil
+#+OPTIONS: author:nil
+
+#+LaTeX_CLASS_OPTIONS: [12pt,letter]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \large
+
+# Introduce Nelson Goodman's argument
+# Explain that this is known as the new riddle of induction
+In this paper I will discuss Nelson Goodman's new riddle of induction
+and consider a response to Goodman's riddle. An inductive argument is
+an argument that typically has several premises and a conclusion.  Its
+conclusion is not guaranteed to be true; instead, it holds some
+probability of being true. This distinction differentiates an
+inductive argument from a deductive argument, whose conclusion, given
+a set of true premises, is guaranteed to be true.  
+
+# Explain what the original problem of induction is
+
+# Introduce the first premise of Goodman's argument
+# Explain the Principle of the Uniformity of Nature
+# Explain why the premise is true and justified
+# Give an example of the first premise
+
+Consider the argument, ``all observed emeralds have been green,
+therefore, all emeralds are green.'' Let us ignore the fact that we
+know there are non-green emeralds and focus on the form of the
+argument. Suppose that we are scientist studying the nascent field
+of gemology on another planet, Prasinos. On Prasinos, all past
+emerald observations have been green. Therefore, we want to say
+with some confidence that all emeralds are green. It was originally
+argued that in order to justify such an argument, we needed to rely
+on the fact that the universe is uniform and consistent. In other
+words, we expect that if we could stand on any planet in the universe,
+we would find the same laws of physics and chemistry. We call this
+principle the uniformity of nature.
+
+# What astronomer's see when they look through their telescopes
+
+# Introduce the second premise of Goodman's argument
+# Explain why the PUN is insufficient to justify induction
+# Explain why the premise is true and justified
+# Give an example of the first premise
+
+# Introduce the third premise of Goodman's argument
+# Give Goodman's argument for the word Grue
+# Explain why the premise is true and justified
+# Give an example of the first premise
