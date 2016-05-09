@@ -46,8 +46,8 @@ instances, then induction would be justified. Thus, if we could figure
 out how  any two objects  in the universe  are uniform, we  could give
 good inductive  arguments about how  they should behave  under certain
 certain circumstances. If  we could take a bucket of  water from Earth
-and a bucket of water from  our hypothetical planet Prasinos, we would
-expect both buckets to freeze at 0\textdegree Celsius.
+and a bucket  of water from Prasinos, we would  expect both buckets to
+freeze at 0\textdegree Celsius.
 
 # Introduce the second premise of Goodman's argument
 # Explain why the PUN is insufficient to justify induction
@@ -64,40 +64,38 @@ nature is a triviality; we can always find uniformity in nature.
 
 Goodman argues  that there  is a  deeper problem at  the heart  of the
 problem  of  induction.  Let  us  assume  that  the principle  of  the
-uniformity of  nature is  true, given our  observation above  and step
-away  from the  problem  of induction  to  add two  new  words to  our
-vocabulary,  /grue/ and  /bleen/. According  to Goodman,  something is
-grue if it is observed before some time /t/ and is green; otherwise it
-is something unobserved before time /t/ and blue. Similarly, something
-is /bleen/ if before /t/ something  is observed to be blue; otherwise,
-it is unobserved before  /t/ and green. Suppose that we  set /t/ to
-March 2,  2084. Thus,  the green  sweater I wore  last Friday  is both
-green and grue, since I observed it before 2084. Similarly, there is a
-blue emerald deep inside a cave that  will not be found until at least
-2084, which is also grue.
+uniformity of nature is true.  Let us consider two new words coined by
+Goodman,  /grue/ and  /bleen/. Something  is  grue if  it is  observed
+before  some  time  /t/  and  is  green;  otherwise  it  is  something
+unobserved before time  /t/ and blue. Similarly,  something is /bleen/
+if  before /t/  something is  observed to  be blue;  otherwise, it  is
+unobserved before  /t/ and  green. Suppose  that we  set /t/  to March
+2, 2084. Thus, the green sweater I  wore last Friday is both green and
+grue, since  I observed  it before  2084. Similarly,  there is  a blue
+emerald deep inside a cave that will not be found until at least 2084,
+which is also grue.
 
 # Introduce the third premise of Goodman's argument
 # Give Goodman's argument for the word Grue
 # Explain why the premise is true and justified
 # Give an example of the first premise
-Goodman shows  us that grue  and bleen present  us with a  problem. We
-might  have  thought  that  since  we assumed  the  principle  of  the
-uniformity of nature, we could make justified inductive arguments. For
-example, let us  consider our first inductive argument, adding in the
-uniformity of  nature principle: (i)  all observed emeralds  have been
-/green/,  (ii)   unobserved  instances  are  like   observed  instances,
-(conclusion) all  emeralds are  /green/. Remembering  the fact  that our
-conclusion is not guaranteed, but  rather only probable, it seems that
-we have  a good inductive  argument. But  Goodman gives us  a parallel
-inductive argument using  /grue/: (i) all observed  emeralds have been
-/grue/,  (ii)   unobserved  instances   are  like   observed  instances,
-(conclusion) all emeralds are /grue/.
+We might have
+thought  that since  we assumed  the  principle of  the uniformity  of
+nature, we justified inductive arguments.  For example, we can add the
+principle  uniformity of  nature  to our  original  argument: (i)  all
+observed  emeralds have  been /green/,  (ii) unobserved  instances are
+like    observed   instances,    (conclusion)    all   emeralds    are
+/green/.  Remembering  that our  conclusion  is  not guaranteed,  only
+probable, it seems that we have a good inductive argument. But Goodman
+gives us a parallel inductive  argument using /grue/: (i) all observed
+emeralds have been /grue/, (ii) unobserved instances are like observed
+instances, (conclusion) all emeralds are /grue/.
 
 We can  now appreciate Goodman's  riddle: given that the  principle of
 the uniformity of  nature is trivially true, induction  still does not
 work. We can see that the two inductive arguments above differ only in
 their color  terms. Yet, it appears  that the former is  good argument
-while  the latter  is  bad  argument. Thus,  since  the  form of  the
+while  the latter  is  bad  argument. Since  the  form of  the
 argument is the  same, we see that the principle  of the uniformity of
 nature does not help us decide  which inductive arguments are good and
 which ones are bad.
