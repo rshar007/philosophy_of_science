@@ -13,13 +13,12 @@
 
 # Introduce Nelson Goodman's argument
 # Explain that this is known as the new riddle of induction
-In this paper I will discuss  Nelson Goodman's new riddle of induction
-and consider a response to  Goodman's riddle. An inductive argument is
-an argument that typically has several premises and a conclusion.  Its
+In this paper I will discuss Nelson Goodman's new riddle of induction.
+An inductive  argument is  a set  of premises  and a  conclusion.  Its
 conclusion  is not  guaranteed  to  be true;  instead,  it holds  some
-probability  of   being  true.  This  distinction   differentiates  an
-inductive argument from a  deductive argument, whose conclusion, given
-a set of true premises, is guaranteed to be true.
+probability of being true.   This distinction differentiates inductive
+and  deductive  arguments,  whose  conclusion, given  a  set  of  true
+premises, is guaranteed to be true.
 
 # Explain what the original problem of induction is
 
@@ -29,45 +28,39 @@ a set of true premises, is guaranteed to be true.
 # Give an example of the first premise
 
 Let us consider the argument, ``all observed emeralds have been green,
-therefore, all  emeralds are green.'' Let  us ignore the fact  that we
-know  there are  non-green  emeralds  and focus  on  the  form of  the
-argument. Suppose that we are  scientist studying the nascent field of
-gemology on  another planet, Prasinos.  On Prasinos, all  past emerald
-observations  have been  green. Therefore,  we want  to say  with some
-confidence that all emeralds are  green. It was originally argued that
-in order to  justify such an argument,  we needed to rely  on the fact
-that the universe is uniform and consistent. In other words, we expect
-that if we  could stand on any  planet in the universe,  we would find
-the same  laws of physics  and chemistry. In other words, the principle
-states that unobserved instances, are like observed instances.  
-We call this  principle the uniformity of nature.
+therefore, all  emeralds are  green.'' Suppose  that we  are scientist
+studying the  nascent field of  gemology on another  planet, Prasinos.
+On Prasinos, all past emerald observations have been green. We want to
+make  an  inductive  argument  about emeralds  being  green.   It  was
+originally argued  that in  order to  justify inductive  arguments, we
+needed  to  rely  on  the  fact  that  the  universe  is  uniform  and
+consistent.  In  other words, unobserved instances,  are like observed
+instances.  We call this principle the uniformity of nature.
 
 # What astronomer's see when they look through their telescopes
-Philosophers have  approached the original problem  of induction since
-the philosopher  David Hume  showed argued that  the principle  of the
-uniformity of nature  is not justified. There have  been many attempts
-to justify  the principle. It seems  intuitive to say that  if we could
-justify that  unobserved instances  are like observed  instances, then
-induction would be justified. Thus, if we could figure out how any two
-objects  in the  universe are  uniform, we  could give  good inductive
-arguments  about   how  they  should  behave   under  certain  certain
-circumstances. If  we could take  a bucket of  water from Earth  and a
-bucket of water from our hypothetical planet Prasinos, we would expect
-both buckets to freeze at 0 \textdegree Celsius.
+The philosopher David Hume argued that the principle of the uniformity
+of nature is not justified. Since  the 17^{th} Century there have been
+many attempts to justify the principle. It seems intuitive to say that
+if  we  could justify  that  unobserved  instances are  like  observed
+instances, then induction would be justified. Thus, if we could figure
+out how  any two objects  in the universe  are uniform, we  could give
+good inductive  arguments about how  they should behave  under certain
+certain circumstances. If  we could take a bucket of  water from Earth
+and a bucket of water from  our hypothetical planet Prasinos, we would
+expect both buckets to freeze at 0\textdegree Celsius.
 
 # Introduce the second premise of Goodman's argument
 # Explain why the PUN is insufficient to justify induction
 # Explain why the premise is true and justified
 # Give an example of the first premise
 
-We will not consider Hume's problem of induction in this essay because
 Goodman shows  us that the  principle of  the uniformity of  nature is
 trivial. He argues that we can  select any two objects in the universe
 and find something  about them that is uniform. For  example, a gopher
-and a pair of headphones might seem like they are unrelated objects in
-the universe; however,  as far as we know gophers  and headphones only
-exist on Earth,  not Prasinos. Thus, as Goodman  argues, the principle
-of the uniformity of nature is a triviality.
+and a pair of headphones seem  like unrelated objects; however, as far
+as  we  know   gophers  and  headphones  only  exist   on  Earth,  not
+Prasinos. Thus, as Goodman argues,  the principle of the uniformity of
+nature is a triviality; we can always find uniformity in nature.
 
 Goodman argues  that there  is a  deeper problem at  the heart  of the
 problem  of  induction.  Let  us  assume  that  the principle  of  the
@@ -77,7 +70,7 @@ vocabulary,  /grue/ and  /bleen/. According  to Goodman,  something is
 grue if it is observed before some time /t/ and is green; otherwise it
 is something unobserved before time /t/ and blue. Similarly, something
 is /bleen/ if before /t/ something  is observed to be blue; otherwise,
-it is unobserved before  /t/ and green. Suppose that we  set /t/ to be
+it is unobserved before  /t/ and green. Suppose that we  set /t/ to
 March 2,  2084. Thus,  the green  sweater I wore  last Friday  is both
 green and grue, since I observed it before 2084. Similarly, there is a
 blue emerald deep inside a cave that  will not be found until at least
@@ -90,15 +83,15 @@ blue emerald deep inside a cave that  will not be found until at least
 Goodman shows  us that grue  and bleen present  us with a  problem. We
 might  have  thought  that  since  we assumed  the  principle  of  the
 uniformity of nature, we could make justified inductive arguments. For
-example, let us  consider our first inductive argument but  add in the
+example, let us  consider our first inductive argument, adding in the
 uniformity of  nature principle: (i)  all observed emeralds  have been
-green,  (ii)   unobserved  instances  are  like   observed  instances,
-(conclusion) all  emeralds are  green. Remembering  the fact  that our
+/green/,  (ii)   unobserved  instances  are  like   observed  instances,
+(conclusion) all  emeralds are  /green/. Remembering  the fact  that our
 conclusion is not guaranteed, but  rather only probable, it seems that
 we have  a good inductive  argument. But  Goodman gives us  a parallel
 inductive argument using  /grue/: (i) all observed  emeralds have been
-grue,  (ii)   unobserved  instances   are  like   observed  instances,
-(conclusion) all emeralds are grue.
+/grue/,  (ii)   unobserved  instances   are  like   observed  instances,
+(conclusion) all emeralds are /grue/.
 
 We can  now appreciate Goodman's  riddle: given that the  principle of
 the uniformity of  nature is trivially true, induction  still does not
