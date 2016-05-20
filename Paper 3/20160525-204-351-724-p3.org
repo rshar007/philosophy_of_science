@@ -15,11 +15,12 @@
 # ########################
 # A: Normal science
 # ########################
-
+  
 ** Participation in normal science
 # most scientists spend their time participating in normal science
 - Normal research
 - Theory formulation
+- 
 
 ** Three activities that scientists engage in
 # three activities that scientists engage in during the process of normal science
