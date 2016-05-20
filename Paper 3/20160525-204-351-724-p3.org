@@ -11,15 +11,23 @@
 #+LATEX_HEADER: \doublespacing
 #+LATEX_HEADER: \large
 
+* Normal science
 # ########################
 # A: Normal science
 # ########################
-# most scientists spend their time participating in normal science
 
+** Participation in normal science
+# most scientists spend their time participating in normal science
+- Normal research
+- Theory formulation
+
+** Three activities that scientists engage in
 # three activities that scientists engage in during the process of normal science
 
+** Difference between main hypotheses and auxilliary hypotheses
 # discuss the difference between main hypotheses of a theory and auxilliary hypotheses
 
+* Paradigms
 # ########################
 # B: Paradigms
 # ########################
@@ -30,6 +38,7 @@
 
 # how does the paradigm provide these two features?
 
+* Ancient science vs modern science
 # ########################
 # C: 
 # ########################
