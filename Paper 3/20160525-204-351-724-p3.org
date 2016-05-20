@@ -1,0 +1,43 @@
+#+AUTHOR: 204-351-724
+#+TITLE: UCLA Philosophy 08: Paper Assignment #3
+#+OPTIONS: toc:nil
+#+OPTIONS: date:nil
+#+OPTIONS: author:nil
+
+#+LaTeX_CLASS_OPTIONS: [12pt,letter]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \large
+
+# ########################
+# A: Normal science
+# ########################
+# most scientists spend their time participating in normal science
+
+# three activities that scientists engage in during the process of normal science
+
+# discuss the difference between main hypotheses of a theory and auxilliary hypotheses
+
+# ########################
+# B: Paradigms
+# ########################
+# Kuhn argues that paradigms are essential for normal science by presenting normal science
+# as a kind of puzzle solving
+
+# If normal science is a puzzle-solving activity, what two features are essential for it
+
+# how does the paradigm provide these two features?
+
+# ########################
+# C: 
+# ########################
+
+# Ancient scientific works tend to be long, self-contained works that are accessible to
+# the general educated public
+
+# Contemporary scientific work tends to be in the form of short articles that are impenetrable
+# to non-specialists
+
+# How does Kuhn explain this fact in terms of paradigms?
