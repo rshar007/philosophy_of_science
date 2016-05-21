@@ -13,8 +13,11 @@
 
 * Introduction
 # Brian said that the introduction can simply be one or two sentences
-In this paper I will discuss Thomas Kuhn's views about the process of normal
-science and the paradigmatic theories that are essential for it.
+In 1962 the physicist and philosopher Thomas Kuhn published /The
+Structure of Scientific Revolutions, which proposed a complex
+description of the scientific method. In this paper I will discuss
+Kuhn's views about the process of normal science and the paradigmatic
+theories that are essential for it.
 
 * Normal science
 ** Participation in normal science
@@ -44,8 +47,8 @@ science and the paradigmatic theories that are essential for it.
   
 ** Difference between main hypotheses and auxilliary hypotheses
 # discuss the difference between main hypotheses of a theory and auxilliary hypotheses
-- main hypothesis is...
-- auxilliary hypotheses are...
+- main hypothesis of a theory
+- auxilliary hypotheses of a theory.
   + cumulative
 
 * Paradigms
@@ -55,9 +58,18 @@ science and the paradigmatic theories that are essential for it.
 # as a kind of puzzle solving
 
 # how does the paradigm provide these two features?
-
+  
 * Ancient science vs modern science
+  
+- what goes on during pre-paradigm state
+- not well organized
+- not very effective
+- debate about fundamentals
 
+- striking piece of work appears
+- insight into the workings of some part of the world
+- model for investigation
+- no debate about fundamentals
 # Ancient scientific works tend to be long, self-contained works that are accessible to
 # the general educated public
 
