@@ -1,5 +1,6 @@
 #+AUTHOR: 204-351-724
 #+TITLE: UCLA Philosophy 08: Paper Assignment #3
+#+bind: org-export-publishing-directory "./exports"
 #+OPTIONS: toc:nil
 #+OPTIONS: date:nil
 #+OPTIONS: author:nil
@@ -47,15 +48,30 @@ theories that are essential for it.
   
 ** Difference between main hypotheses and auxilliary hypotheses
 # discuss the difference between main hypotheses of a theory and auxilliary hypotheses
-- main hypothesis of a theory
+- scientists doing normal science assume a main hypothesis
+  + universal grammar main hypothesis:
+    - the ability to learn a language is hard-wired into human brains
 - auxilliary hypotheses of a theory.
-  + cumulative
+  + regions of the brain associated with universal gramamr
+  + universal grammar is only available during a critical period
 
 * Paradigms
-# If normal science is a puzzle-solving activity, what two features are essential for it
 
-# Kuhn argues that paradigms are essential for normal science by presenting normal science
-# as a kind of puzzle solving
+** Normal science is a puzzle solving activity
+# If normal science is a puzzle-solving activity, what two features are 
+# essential for it
+- Kuhn says that normal science is a puzzle solving activity
+- snake cube puzzle 
+  + description of the puzzle
+    - chain of cubelets are connected by an elastic band that runs through them
+  + goal
+    - aim of the puzzle is to put the blocks back together so that 
+  + rules
+    - rotate the cubes freely
+    - arrange the cubelets so that they form a single large cube
+    - obviously, cannot cut the elastic band
+# Kuhn argues that paradigms are essential for normal science by presenting 
+# normal science  as a kind of puzzle solving
 
 # how does the paradigm provide these two features?
   
