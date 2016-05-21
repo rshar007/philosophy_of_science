@@ -56,7 +56,6 @@ theories that are essential for it.
   + universal grammar is only available during a critical period
 
 * Paradigms
-
 ** Normal science is a puzzle solving activity
 # If normal science is a puzzle-solving activity, what two features are 
 # essential for it
@@ -70,26 +69,51 @@ theories that are essential for it.
     - rotate the cubes freely
     - arrange the cubelets so that they form a single large cube
     - obviously, cannot cut the elastic band
-# Kuhn argues that paradigms are essential for normal science by presenting 
-# normal science  as a kind of puzzle solving
-
+** How does (a/the) paradigm provide these two features?
 # how does the paradigm provide these two features?
+   - Kuhn argues that paradigms are essential for normal science
+   - goal: possible solution
+     + paradigms present the promise of a solution
+     + we know what the solution would look like
+   - rules
+     - explicit statements of scientific laws
+     - commitments to certain instruments and ways that these instruments can be used
+     - quasi-philosophical commitments
+     - methodological commitments
   
 * Ancient science vs modern science
-  
+
+** The difference
+# Ancient scientific works tend to be long, self-contained works that are
+# accessible to the general educated public
+- ancient scientific works tend to be long
+  + Darwin's On the Origin of Species is several hundred pages long
+  + Noam Chomsky's ``Syntactic Structures'' is more than a hundred pages long
+- modern scientific articles
+  + Chomsky's latest paper was only six pages long
+** Ancient science  
 - what goes on during pre-paradigm state
 - not well organized
 - not very effective
 - debate about fundamentals
 
+** Paradigm science (modern science)
+# Contemporary scientific work tends to be in the form of short articles that
+# are impenetrable to non-specialists
 - striking piece of work appears
 - insight into the workings of some part of the world
 - model for investigation
 - no debate about fundamentals
-# Ancient scientific works tend to be long, self-contained works that are accessible to
-# the general educated public
+- fact gathering
+- cumulative
 
-# Contemporary scientific work tends to be in the form of short articles that are impenetrable
-# to non-specialists
+** Explanation summary
+- ancient science (pre-paradigm) science 
+  + must organize and collect several facts
+  + must explain and defend their assumptions
+  + there is room for debate about fundamentals
+- modern science
+  + organizes and collects facts too
+  + doesn't need to explain and defend assumptions
+  + no room for debate about fundamentals
 
-# How does Kuhn explain this fact in terms of paradigms?
