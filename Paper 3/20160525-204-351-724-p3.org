@@ -11,38 +11,52 @@
 #+LATEX_HEADER: \doublespacing
 #+LATEX_HEADER: \large
 
-* Normal science
-# ########################
-# A: Normal science
-# ########################
-  
-** Participation in normal science
-# most scientists spend their time participating in normal science
-- Normal research
-- Theory formulation
-- 
+* Introduction
+# Brian said that the introduction can simply be one or two sentences
+In this paper I will discuss Thomas Kuhn's views about the process of normal
+science and the paradigmatic theories that are essential for it.
 
+* Normal science
+** Participation in normal science
+- scientists spend most of their time doing normal science example
+  + introduce an example of normal science, linguistic theory
+  + universal grammar
+  + humans are born with the innate ability to acquire language
+  + we will not argue for or against the theory
+  + we will use universal grammar as a case study for Kuhn's views
+- explain what Kuhn means by normal science
+  + explain Kuhn's views on normal science
+    - a scientific commited to working together
+      + science journals, book publishing
+      + conferences
+      + lab experiments
 ** Three activities that scientists engage in
 # three activities that scientists engage in during the process of normal science
-
+- Normal research (gathering data)
+  + Wug test, shows that children who have acquired a new word can apply
+    complex grammatical manipulations
+- Matching data with theory
+  + Taking the results from the Wug test to explain how that fits or does
+    not fit with what the theory predicts
+- Theory formulation
+  + Refining the theory based on the accumulation of data
+  + Have the theory make more predictions
+  
 ** Difference between main hypotheses and auxilliary hypotheses
 # discuss the difference between main hypotheses of a theory and auxilliary hypotheses
+- main hypothesis is...
+- auxilliary hypotheses are...
+  + cumulative
 
 * Paradigms
-# ########################
-# B: Paradigms
-# ########################
+# If normal science is a puzzle-solving activity, what two features are essential for it
+
 # Kuhn argues that paradigms are essential for normal science by presenting normal science
 # as a kind of puzzle solving
-
-# If normal science is a puzzle-solving activity, what two features are essential for it
 
 # how does the paradigm provide these two features?
 
 * Ancient science vs modern science
-# ########################
-# C: 
-# ########################
 
 # Ancient scientific works tend to be long, self-contained works that are accessible to
 # the general educated public
