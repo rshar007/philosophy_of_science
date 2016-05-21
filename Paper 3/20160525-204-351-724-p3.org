@@ -1,0 +1,30 @@
+#+AUTHOR: 204-351-724
+#+TITLE: UCLA Philosophy 08: Paper Assignment #3
+#+bind: org-export-publishing-directory "./exports"
+#+OPTIONS: toc:nil
+#+OPTIONS: date:nil
+#+OPTIONS: author:nil
+
+#+LaTeX_CLASS_OPTIONS: [12pt,letter]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \large
+
+* Introduction
+In 1962 the physicist and philosopher Thomas Kuhn published /The
+Structure of Scientific Revolutions, which proposed a complex
+description of the scientific method. In this paper I will discuss
+Kuhn's views about the process of normal science and the paradigmatic
+theories that are essential for it.
+
+* Normal science
+Kuhn argues that scientists spend most of their time doing what he calls _normal
+science_. Consider a case from modern linguistic theory. Orginally formulated
+in the 1960's, Noam Chomsky proposed the theory of universal grammar.
+Put simply, the theory says that human's have the ability to acquire language
+because they are born with cognitive structures that  
+
+* Paradigms  
+* Ancient science vs modern science
