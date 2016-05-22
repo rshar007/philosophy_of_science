@@ -52,5 +52,23 @@ But these statements would be auxiliary hypotheses to work out through normal
 science.
 
 * Paradigms  
+Kuhn uses the analogy of puzzle solving to describe normal science. Kuhn tells
+us that every puzzle has at least two features: (i) the promise of a solution to
+the puzzle, and (ii) rules that govern how to reach a solution. Consider /the
+snake cube/ puzzle. In this puzzle, a line of cubelet blocks are connected by an
+elastic band that runs through the center of each cubelet, forming a serpentine
+chain. The aim of the puzzle---the promised solution---is to put the blocks back
+together so that you are left with a large cube. The rules of the game are
+simple: (i) rotate the cubelets freely, (ii) you cannot detach of sever the
+cubelets from their elastic bands.
+
+Kuhn argues that normal science operates under something akin to puzzle solving,
+introducing the notion of a paradigm. According to Kuhn, a paradigm is like a
+puzzle because it gives scientists the promise of a solution and operates under
+a set of rules. A paradigm requires (i) explicit statements about scientific
+laws, (ii) commitments to certains instruments and procedures for how to use
+these instruments, (iii) quasi-philosophical commitments, and (iv)
+methodological commitments. The first two rule gives the paradigm constraints for
+what an acceptable solution could look like. The 
 
 * Ancient science vs modern science
