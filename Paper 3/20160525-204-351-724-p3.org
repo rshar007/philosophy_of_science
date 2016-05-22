@@ -21,10 +21,35 @@ theories that are essential for it.
 
 * Normal science
 Kuhn argues that scientists spend most of their time doing what he calls _normal
-science_. Consider a case from modern linguistic theory. Orginally formulated
-in the 1960's, Noam Chomsky proposed the theory of universal grammar.
-Put simply, the theory says that human's have the ability to acquire language
-because they are born with cognitive structures that  
+science_. Let us apply Kuhn's argument of normal science to modern linguistic
+theory. Originally formulated in the 1960's, Noam Chomsky proposed the theory of
+universal grammar.  Put simply, the theory says that humans can acquire
+languages because we are born with neural circuits specifically made to acquire
+language. Kuhn argues that linguists doing normal science are engaged in several
+activities: linguists work together, publish articles, publish books, attend
+conferences, gather data, and formulate scientific theory.
+
+More broadly, Kuhn divides these activities into three main categories: (i)
+gathering data, (ii) matching data with theory, and (iii) theory formulation.
+Thus, when linguist tested childrens' abilities to apply phonological and
+grammatical rules on newly acquired lexical items, they were gathering data.
+Having never heard these new vocabulary items, children in these linguistic
+experiments were able to form the plural form of the words they were given.  The
+fact that they did so without explicit instruction gave linguists data that they
+could match with universal grammar. Finally, given their results and matches or
+mismatches with theory, the linguists performing these experiments could refine
+the theory of universal grammar to make further predictions to test.
+
+Let us note that under normal science, there is a distinction between a main
+hypothesis and auxiliary hypotheses of a theory. In this example, Kuhn would
+argue that linguists working under the theory of universal grammar assume its
+main hypothesis: /the ability to learn a language is hard-wired into human
+brains/.  Auxiliary hypotheses are generated and confirmed or discomfirmed
+throught the process of normal science. For example, linguists may propose that
+certain regions of the brain are associated with universal grammar or that
+universal grammar only allows us to acquire language during a critical period.
+But these statements would be auxiliary hypotheses to work out through normal
+science.
 
 * Paradigms  
 * Ancient science vs modern science
