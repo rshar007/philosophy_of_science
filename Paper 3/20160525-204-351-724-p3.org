@@ -66,9 +66,32 @@ Kuhn argues that normal science operates under something akin to puzzle solving,
 introducing the notion of a paradigm. According to Kuhn, a paradigm is like a
 puzzle because it gives scientists the promise of a solution and operates under
 a set of rules. A paradigm requires (i) explicit statements about scientific
-laws, (ii) commitments to certains instruments and procedures for how to use
-these instruments, (iii) quasi-philosophical commitments, and (iv)
-methodological commitments. The first two rule gives the paradigm constraints for
-what an acceptable solution could look like. The 
+laws, (ii) commitments to certains instruments and their use, (iii)
+quasi-philosophical commitments, and (iv) methodological commitments.
+# need to fix or elaborate on this part
 
 * Ancient science vs modern science
+A striking difference between ancient science and modern science is
+the size of published works: ancient scientific works, such as Chomsky's
+/Syntactic Structures/ tend to be long, while modern scientific articles tend to
+be short journal articles; Chomsky's last linguistics article was a mere six
+pages long.  Short scientific articles are also opaque to outsiders of the
+paradigm; many mathematicians, much less the general public, may be unable to
+read an article published in the Journal of linguistics.
+
+Kuhn explains this difference by noting several differences between pre-paradigm,
+ancient science, and paradigm puzzle solving, modern science. Recall that a
+paradigm gives scientists that are doing normal science a goal and a set of rules.
+Thus, there are no debates about fundamentals, since these are taken for granted
+under the paradigm. Furthemore, normal science tends to be cumulative, allowing
+scientists working under a paradigm to gather facts about smaller pieces of the
+solution. Thus, scientists working under a paradigm need not read the instructions
+to their puzzles, everytime they wish to engage in solving the puzzle.
+
+Pre-paradigm science is not well organized and not very effective
+because there are few rules to help focus scientists problem solving skills.
+Furthermore, since a goal is unavailable to pre-paradigm scientists, there
+is much debate about fundamental problems that need to be addressed. Hence,
+scientists working without a paradigm must explain why their puzzle's rules,
+assumptions, vision of a solution, as well as why the puzzle is interesting
+in the first place.
