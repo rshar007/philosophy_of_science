@@ -13,71 +13,65 @@
 #+LATEX_HEADER: \large
 
 * Introduction
-In 1962 the physicist and philosopher Thomas Kuhn published /The
-Structure of Scientific Revolutions, which proposed a complex
-description of the scientific method. In this paper I will discuss
-Kuhn's views about the process of normal science and the paradigmatic
-theories that are essential for it.
+In 1962, philosopher and physicist Thomas Kuhn published ``The Structure of
+Scientific Revolutions,'' which proposed a complex description of the scientific
+method. In this paper I will discuss Kuhn's notion of paradigms and his views
+about the process of normal science.
 
 * Normal science
-Kuhn argues that scientists spend most of their time doing what he calls _normal
-science_. Let us apply Kuhn's argument of normal science to modern linguistic
-theory. Originally formulated in the 1960's, Noam Chomsky proposed the theory of
-universal grammar.  Put simply, the theory says that humans can acquire
-languages because we are born with neural circuits specifically made to acquire
-language. Kuhn argues that linguists doing normal science are engaged in several
-activities: linguists work together, publish articles, publish books, attend
-conferences, gather data, and formulate scientific theory.
-
-More broadly, Kuhn divides these activities into three main categories: (i)
+Let us look at what Kuhn calls normal science in the domain of modern linguistic
+theory. Noam Chomsky proposed the theory of universal grammar in the 1960's.
+Put simply, Chomsky's theory says that humans acquire language because they are
+born with neural circuits specifically for language acquisition. Kuhn argues
+that linguists doing normal science are engaged in several activities: (i)
 gathering data, (ii) matching data with theory, and (iii) theory formulation.
-Thus, when linguist tested childrens' abilities to apply phonological and
-grammatical rules on newly acquired lexical items, they were gathering data.
-Having never heard these new vocabulary items, children in these linguistic
-experiments were able to form the plural form of the words they were given.  The
-fact that they did so without explicit instruction gave linguists data that they
-could match with universal grammar. Finally, given their results and matches or
-mismatches with theory, the linguists performing these experiments could refine
-the theory of universal grammar to make further predictions to test.
 
-Let us note that under normal science, there is a distinction between a main
-hypothesis and auxiliary hypotheses of a theory. In this example, Kuhn would
-argue that linguists working under the theory of universal grammar assume its
-main hypothesis: /the ability to learn a language is hard-wired into human
-brains/.  Auxiliary hypotheses are generated and confirmed or discomfirmed
-throught the process of normal science. For example, linguists may propose that
-certain regions of the brain are associated with universal grammar or that
-universal grammar only allows us to acquire language during a critical period.
-But these statements would be auxiliary hypotheses to work out through normal
-science.
+Thus, when linguists tested childrens' abilities to apply phonological rules to
+new vocabulary, they were gathering data. The children in these linguistic
+experiments were able to pluralize words they had never heard before and because
+they did so without explicit instruction gave linguists data to match against
+the theory universal grammar. Given their results, linguists performing these
+experiments could refine the theory of universal grammar to make further
+predictions to test. These activities match up with Kuhn's description of
+normal science.
+
+We should note a difference between the main auxiliary hypotheses
+of a theory. Kuhn would argue that linguists working under the
+theory of universal grammar assume its main hypothesis: /the ability to learn a
+language is hard-wired into human brains/.
+# I want to fix this sentence below, but don't know how right now.
+Auxiliary hypotheses are generated
+and confirmed or discomfirmed throught the process of normal science. For
+example, linguists may propose that a specific region of the brain is likely
+to be where language acquisition occurs.  But this statement would be an 
+auxiliary hypothesis, which means it could be rejected by some linguists.
+# possible follow this sentence up
 
 * Paradigms  
-Kuhn uses the analogy of puzzle solving to describe normal science. Kuhn tells
-us that every puzzle has at least two features: (i) the promise of a solution to
-the puzzle, and (ii) rules that govern how to reach a solution. Consider /the
-snake cube/ puzzle. In this puzzle, a line of cubelet blocks are connected by an
-elastic band that runs through the center of each cubelet, forming a serpentine
-chain. The aim of the puzzle---the promised solution---is to put the blocks back
-together so that you are left with a large cube. The rules of the game are
+Kuhn argues that normal science is like puzzle solving, introducing the notion
+of a paradigm. According to Kuhn, a paradigm is like a puzzle because it gives
+scientists the promise of a solution and operates under a set of rules. A
+paradigm requires (i) explicit statements about scientific laws, (ii)
+commitments to certains instruments and their use, (iii) quasi-philosophical
+commitments, and (iv) methodological commitments.
+
+Consider the /snake cube/ puzzle. In this puzzle, a line of cubelet blocks are
+connected by an elastic band that runs through the center of each cubelet,
+forming a serpentine chain. The promised solution of the snake cube is to put
+the cubelets back together into a signle large cube. The rules of the game are
 simple: (i) rotate the cubelets freely, (ii) you cannot detach of sever the
 cubelets from their elastic bands.
-
-Kuhn argues that normal science operates under something akin to puzzle solving,
-introducing the notion of a paradigm. According to Kuhn, a paradigm is like a
-puzzle because it gives scientists the promise of a solution and operates under
-a set of rules. A paradigm requires (i) explicit statements about scientific
-laws, (ii) commitments to certains instruments and their use, (iii)
-quasi-philosophical commitments, and (iv) methodological commitments.
-# need to fix or elaborate on this part
+# see if we can modify the rules so that there is only one rule
 
 * Ancient science vs modern science
-A striking difference between ancient science and modern science is
-the size of published works: ancient scientific works, such as Chomsky's
+Let us now turn to ancient pre-paradigm science and modern paradigm driven
+science. There is a striking difference between the two schemata; the size of
+published works vary greatly. Ancient scientific works, such as Chomsky's
 /Syntactic Structures/ tend to be long, while modern scientific articles tend to
-be short journal articles; Chomsky's last linguistics article was a mere six
-pages long.  Short scientific articles are also opaque to outsiders of the
-paradigm; many mathematicians, much less the general public, may be unable to
-read an article published in the Journal of linguistics.
+be short journal articles. For example, Chomsky's last linguistics article was a
+mere six pages long.  Furthermore, short scientific articles tend to be opaque
+to outsiders of the paradigm; many mathematicians, much less the general public,
+may be unable to read an article published in the Journal of linguistics.
 
 Kuhn explains this difference by noting several differences between pre-paradigm,
 ancient science, and paradigm puzzle solving, modern science. Recall that a
