@@ -12,13 +12,13 @@
 #+LATEX_HEADER: \doublespacing
 #+LATEX_HEADER: \large
 
-* Introduction
+# Introduction
 In 1962, philosopher and physicist Thomas Kuhn published ``The Structure of
 Scientific Revolutions,'' which proposed a complex description of the scientific
 method. In this paper I will discuss Kuhn's notion of paradigms and his views
 about the process of normal science.
 
-* Normal science
+# Normal science
 Let us look at what Kuhn calls normal science in the domain of modern linguistic
 theory. Noam Chomsky proposed the theory of universal grammar in the 1960's.
 Put simply, Chomsky's theory says that humans acquire language because they are
@@ -32,38 +32,40 @@ experiments were able to pluralize words they had never heard before and because
 they did so without explicit instruction gave linguists data to match against
 the theory universal grammar. Given their results, linguists performing these
 experiments could refine the theory of universal grammar to make further
-predictions to test. These activities match up with Kuhn's description of
-normal science.
+predictions to test. These activities match up with Kuhn's description of normal
+science.
 
-We should note a difference between the main auxiliary hypotheses
-of a theory. Kuhn would argue that linguists working under the
-theory of universal grammar assume its main hypothesis: /the ability to learn a
-language is hard-wired into human brains/.
-# I want to fix this sentence below, but don't know how right now.
-Auxiliary hypotheses are generated
-and confirmed or discomfirmed throught the process of normal science. For
-example, linguists may propose that a specific region of the brain is likely
-to be where language acquisition occurs.  But this statement would be an 
-auxiliary hypothesis, which means it could be rejected by some linguists.
-# possible follow this sentence up
+We should note a difference between the main and auxiliary hypotheses of a
+theory. Kuhn would argue that linguists working under the theory of universal
+grammar assume its main hypothesis: /the ability to learn a language is
+hard-wired into human brains/ but do not assume auxiliary hypotheses, which are
+related to the main hypothesis. For example, some linguists may propose that a
+specific region of the brain is responsible for language acquisition; however,
+during the process of doing normal science, other linguists may reject this
+auxiliary hypothesis but, nevertheless, continue to work with their colleagues
+using the core main hypothesis.
 
-* Paradigms  
+# Paradigms  
 Kuhn argues that normal science is like puzzle solving, introducing the notion
 of a paradigm. According to Kuhn, a paradigm is like a puzzle because it gives
 scientists the promise of a solution and operates under a set of rules. A
 paradigm requires (i) explicit statements about scientific laws, (ii)
-commitments to certains instruments and their use, (iii) quasi-philosophical
+commitments to certain instruments and their use, (iii) quasi-philosophical
 commitments, and (iv) methodological commitments.
 
 Consider the /snake cube/ puzzle. In this puzzle, a line of cubelet blocks are
 connected by an elastic band that runs through the center of each cubelet,
 forming a serpentine chain. The promised solution of the snake cube is to put
-the cubelets back together into a signle large cube. The rules of the game are
-simple: (i) rotate the cubelets freely, (ii) you cannot detach of sever the
-cubelets from their elastic bands.
-# see if we can modify the rules so that there is only one rule
+the cubelets back together into a single large cube. The rules of the game are
+simple: (i) rotate the cubelets freely, (ii) stack the cubelets together.
 
-* Ancient science vs modern science
+The linguistic paradigm we have discussed above meets Kuhn's puzzle criteria.
+Chomsky's main hypothesis is the proposed solution. Furthermore, since the work
+done since the 1960's has appealed to natural scientific laws, and has been
+worked out using methods agreed upon by the community, scientists working under
+the paradigm have been following its rules.
+
+# Ancient science vs modern science
 Let us now turn to ancient pre-paradigm science and modern paradigm driven
 science. There is a striking difference between the two schemata; the size of
 published works vary greatly. Ancient scientific works, such as Chomsky's
@@ -73,19 +75,19 @@ mere six pages long.  Furthermore, short scientific articles tend to be opaque
 to outsiders of the paradigm; many mathematicians, much less the general public,
 may be unable to read an article published in the Journal of linguistics.
 
-Kuhn explains this difference by noting several differences between pre-paradigm,
-ancient science, and paradigm puzzle solving, modern science. Recall that a
-paradigm gives scientists that are doing normal science a goal and a set of rules.
-Thus, there are no debates about fundamentals, since these are taken for granted
-under the paradigm. Furthemore, normal science tends to be cumulative, allowing
-scientists working under a paradigm to gather facts about smaller pieces of the
-solution. Thus, scientists working under a paradigm need not read the instructions
-to their puzzles, everytime they wish to engage in solving the puzzle.
+Kuhn explains this difference by noting several differences between
+pre-paradigm, ancient science, and paradigm puzzle solving, modern
+science. Recall that a paradigm gives scientists that are doing normal science a
+goal and a set of rules.  Thus, there are no debates about fundamentals, since
+these are taken for granted under the paradigm. Furthermore, normal science tends
+to be cumulative, allowing scientists working under a paradigm to gather facts
+about smaller pieces of the solution. Thus, scientists working under a paradigm
+need not read the instructions to their puzzles, every time they wish to engage
+in solving the puzzle.
 
-Pre-paradigm science is not well organized and not very effective
-because there are few rules to help focus scientists problem solving skills.
-Furthermore, since a goal is unavailable to pre-paradigm scientists, there
-is much debate about fundamental problems that need to be addressed. Hence,
-scientists working without a paradigm must explain why their puzzle's rules,
-assumptions, vision of a solution, as well as why the puzzle is interesting
-in the first place.
+Pre-paradigm science is not well organized and not very effective because there
+are few rules to help focus scientists problem solving skills.  Furthermore,
+since a goal is unavailable to pre-paradigm scientists, there is much debate
+about fundamental problems that need to be addressed. Hence, scientists working
+without a paradigm must explain why their puzzles' rules, assumptions, vision of
+a solution, as well as why the puzzle is interesting in the first place.
