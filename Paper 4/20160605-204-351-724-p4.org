@@ -1,0 +1,15 @@
+#+AUTHOR: 204-351-724
+#+TITLE: UCLA Philosophy 08: Paper Assignment #3
+#+bind: org-export-publishing-directory "./exports"
+#+OPTIONS: toc:nil
+#+OPTIONS: date:nil
+#+OPTIONS: author:nil
+
+#+LaTeX_CLASS_OPTIONS: [12pt,letter]
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage{times}
+#+LATEX_HEADER: \usepackage{setspace}
+#+LATEX_HEADER: \doublespacing
+#+LATEX_HEADER: \large
+
+* Introduction
