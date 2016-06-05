@@ -57,6 +57,6 @@ The argument seems valid because there is an unspoken intuition about gravity.
 Secondly, remember that the I-S model tells us what a scientific explanation looks like and an explanation that relies on intuition is not a good scientific argument.
 
 The I-S model also requires a scientific explanation to have premises that are all empirically verifiable.
-Suppose that in our explanation about Carl's grades we instead said that Carl did poorly on his tests because an angel named Dina whispers the wrong answers into Carl's ears whenever Carl is taking a test.
+Suppose that in our explanation about Carl's grades we instead said that Carl did poorly on his tests because an angel named Dina whispers wrong answers into Carl's ears whenever Carl is taking a test.
 Given that there is no way to verify supernatural phenomena, this argument would be a poor way to scientifically explain Carl's academic performance.
 Thus, it seems reasonable that the I-S model requires a scientific explanation to have premises that are all empirically verifiable.
