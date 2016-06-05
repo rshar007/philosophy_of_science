@@ -12,77 +12,71 @@
 #+LATEX_HEADER: \doublespacing
 #+LATEX_HEADER: \large
 
-Will people visiting the Rio Olympic games bring back a Mosquito-born virus when they return home this summer?
-There is a scientific explanation to tell us why this could happen.
-But what is a good scientific explanation?
-Philosophers have studied the issue of explanations for millennia.
 In this paper I will discuss Carl Hempel and Paul Oppenheim's Inductive Statistical model (I-S model), which tells us what a good scientific explanation is.
 
 Before discussing the I-S model, I would like to give an explanation that we can apply the model to later.
 Recent psychological research has revealed that disrupting brain activity during sleep reduces your ability to form memories of experiences earlier in the day.
-Let us call this the sleep-memory association.
-Now consider a twenty-year-old guy living in West Los Angeles.
-Carl is a pre-med student at UCLA, hoping to become a cardiologist one day.
-Carl's classes require him to recall many facts about human anatomy.
-Unfortunately, Carl has become an insomniac in his twenties; he rarely gets more than three hours of continuous sleep.
-For illustrative purposes, let us label these premises: (i) sleep-memory association, (ii) Carl is a student who needs to recall many facts, and (iii)
+Let us call this (i) the sleep-memory association.
+(ii) Carl is a pre-med student at UCLA.
+(iii) Carl's classes require him to recall many facts about human anatomy.
+Unfortunately, Carl is an insomniac and rarely gets more than three hours of continuous sleep.
 Carl's sleep is constantly interrupted.
 Keeping sleep deprived Carl in mind, let us now turn to the I-S model.
-Finally, let us label the statement, ``Carl did poorly during his last quarter at UCLA,'' as a conclusion.
 
-If we want a good explanation, we need premises that do the explaining and a conclusion, which needs to be explained.
-We call the former the explanans and we call the latter the explanandum.
-According to the I-S model, we need to have the explanans and the explanandum, and they need to be in the right order.
-Consider an explanation for why Carl did poorly during his last quarter, in which we swap premise (i) for our conclusion.
-We know have an argument which does not follow from its premises: Carl did poorly during his last quarter at UCLA.
+A scientific explanation requires premises that do the explaining and a conclusion, which needs to be explained.
+We call the former explanantia and the latter the explanandum.
+The explanantia and explanadum also need to be in the correct order.
+Consider an explanation for why Carl did poorly during his last quarter, in which we swap premise (i) for our conclusion:
 Carl is a student who needs to recall many facts.
 Carl's sleep is constantly interrupted.
-Therefore, we can conclude the sleep-memory association.
+Therefore, we conclude the sleep-memory association.
+But, this explanation does not explain the sleep-memory association.
 Thus, it seems reasonable for a scientific explanation to have explanatia and an explanandum.
 
 A good scientific explanation also requires its premises to be true.
 Again, suppose we wanted an explanation for Carl's lousy academic performance last quarter.
 Further suppose we used all the premises we had listed above as reasons to explain his performance but, in fact, it was not true that Carl sleeps poorly.
 Then, it seems like a bad explanation to say that Carl did poorly this quarter because he does not sleep well, when in fact we know that Carl gets eight hours of sleep every night.
-Thus, it seems reasonable to require scientific explanations have premises, which are true.
+Thus, it seems reasonable to require scientific explanations have true premises.
 
-The I-S model has a third requirement, which fits well with the model's statistical nature: at least one of the premises must be a statistical law of nature, without which the argument would not be valid.
+The I-S model has a third requirement: at least one of the premises must be a statistical law of nature, without which the argument would not be valid.
 The sleep-memory association premise is our explanation's statistical law of nature.
-Consider our explanation again and suppose that we omitted the sleep-memory association premise.
-It might seem natural to say that our explanation is still good explanation; however, I think there are at least two problems with this intuition.
-First, there seems to be an unstated premise if we omit the sleep-memory association premise.
-Consider another an explanation for why a rock fell to the ground:
-(i) Carl was holding a rock, (ii) Carl let go of the rock, (conclusion) the rock fell to the ground.
-The argument seems valid because there is an unspoken intuition about gravity.
-Secondly, remember that the I-S model tells us what a scientific explanation looks like and an explanation that relies on intuition is not a good scientific argument.
+So, suppose that we omitted the sleep-memory association premise and run through the explanation, once more.
+If the explanation seems to still work, you might be relying on intuition that is a statistical law.
+Remember that the I-S model describes scientific explanations.
+An explanation that relies on intuition is not a good scientific argument.
 
-The I-S model also requires a scientific explanation to have premises that are all empirically verifiable.
-Suppose that in our explanation about Carl's grades we instead said that Carl did poorly on his tests because an angel named Dina whispers wrong answers into Carl's ears whenever Carl is taking a test.
-Given that there is no way to verify supernatural phenomena, this argument would be a poor way to scientifically explain Carl's academic performance.
-Thus, it seems reasonable that the I-S model requires a scientific explanation to have premises that are all empirically verifiable.
+The I-S model also requires a scientific explanation to have empirically verifiable premises.
+Suppose we said instead that an angel whispers to Carl wrong answers whenever he takes tests.
+Given no way to verify supernatural phenomena, this explanation would not be a scientific explanation.
+Thus, it seems reasonable that the I-S model requires empirically verifiable premises.
 
-The last requirement of a scientific explanation is known as the requirement of maximum specificity; an explanation should include relevant premises.
-Consider the explanation about Carl's performance at school, adding a fourth premise: Carl has always done well in school, despite his insomnia.
+Finally, there is the requirement of maximum specificity, which says that an explanation must include relevant premises.
+Consider the explanation about Carl's performance at school, adding a fourth premise: (iv) Carl has always done well in school, despite his insomnia.
 Given this last premise, our conclusion that ``Carl did poorly during his last quarter at UCLA,'' seems unlikely and unjustified.
 Thus, it seems reasonable to require a scientific explanation to include all relevant premises, since a conclusion's likelihood can be dramatically altered by a single premise.
 
-There is a problem, however, with the requirement of maximum specificity; the requirement is vague.
-It is difficult to say precisely what is relevant and what is not.
-Given our example explanation, should what other information should we include about Carl's sleeping habits?
+But, there is a problem, however, with the requirement of maximum specificity; the requirement is vague.
+It is difficult to say precisely what is relevant in an explanation and what is not.
+Given our example explanation, what other information should we include about Carl?
 We could include information about the time he goes to bed, the amount of noise in his room, the amount of REM sleep that he gets, or the quality of his mattress.
-In short, there could be any number of premises that may be relevant.
+In short, there could be any number of premises that might influence the strength of the inductive argument.
 
 Finally, let us consider a requirement that statistical explanations be strong inductive arguments.
 If our statistical law about sleep and memory said that one percent of people with interrupted sleep have memory issues, our explanation would be poor.
-Thus, it seems reasonable to require that statistical explanation to be inductively strong arguments; however, this requirement runs into issues in other seemingly good scientific explanations.
+Then, it seems reasonable to require that statistical explanation to be inductively strong arguments; however, this requirement runs into issues in other seemingly good scientific explanations.
 
-Recall our question at the beginning of this essay.
 Epidemiologists are worried about the Olympics games being held in Brazil.
-Recent studies predict that there will about 50 people infected with a mosquito born illness for every 100,000 people that visit the South American nation.
-Suppose that Carl contracts the Zika virus and we give an explanation for how he acquired the virus: (i) people who visit Brazil have a small chance of contracting the Zika virus, (ii) Carl visited Brazil, (conclusion) Carl contracted the Zika virus.
-This explanation meets all the requirements of the I-S model, yet there would be differing opinions on whether this was a scientific explanation.
-A lay person may say that explanation is poor, yet an epidemiologist may find the explanation good.
+Recent studies predict that for evert 100,000 people that visit the games, 50 people will be infected with the Zika virus.
+Suppose that Carl contracts the virus and we explain how he got it: 
+(i) people who visit Brazil have a small chance of contracting the Zika virus,
+(ii) Carl visited Brazil, 
+(therefore) Carl contracted the Zika virus.
+This explanation meets all the requirements of the I-S model, yet opinions differ about its classification.
+A lay person might say that explanation is poor, while an epidemiologist might say it is good.
 Thus, the requirement seems to work for some explanations and fail for others.
 
 We have seen that the I-S model provides us with reasonable requirements for what constitutes a scientific explanation.
-The model worked well for our first explanation but suffered from several problems: (i) it is difficult to say what is relevant in a scientific explanation, and (ii) we do not know whether we should always require explanations to be inductively strong arguments. 
+The model worked well for our first explanation but suffers from several problems: 
+(i) it is difficult to say what is relevant in a scientific explanation, and 
+(ii) we do not know whether we should always require explanations to be inductively strong arguments. 
