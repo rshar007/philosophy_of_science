@@ -41,7 +41,7 @@ Therefore, we can conclude the sleep-memory association.
 Thus, it seems reasonable for a scientific explanation to have explanatia and an explanandum.
 
 A good scientific explanation also requires its premises to be true.
-Again, suppose we wanted an explanation for Carl's poor academic performance.
+Again, suppose we wanted an explanation for Carl's lousy academic performance last quarter.
 Further suppose we used all the premises we had listed above as reasons to explain his performance but, in fact, it was not true that Carl sleeps poorly.
-Then, it would seem to be a poor explanation to say that Carl did poorly this quarter because he does not sleep well, when in fact we know that Carl sleeps well.
+Then, it seems like a bad explanation to say that Carl did poorly this quarter because he does not sleep well, when in fact we know that Carl gets eight hours of sleep every night.
 Thus, it seems reasonable to require scientific explanations have premises, which are true.
