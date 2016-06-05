@@ -76,9 +76,13 @@ Finally, let us consider a requirement that statistical explanations be strong i
 If our statistical law about sleep and memory said that one percent of people with interrupted sleep have memory issues, our explanation would be poor.
 Thus, it seems reasonable to require that statistical explanation to be inductively strong arguments; however, this requirement runs into issues in other seemingly good scientific explanations.
 
+Recall our question at the beginning of this essay.
 Epidemiologists are worried about the Olympics games being held in Brazil.
 Recent studies predict that there will about 50 people infected with a mosquito born illness for every 100,000 people that visit the South American nation.
 Suppose that Carl contracts the Zika virus and we give an explanation for how he acquired the virus: (i) people who visit Brazil have a small chance of contracting the Zika virus, (ii) Carl visited Brazil, (conclusion) Carl contracted the Zika virus.
 This explanation meets all the requirements of the I-S model, yet there would be differing opinions on whether this was a scientific explanation.
 A lay person may say that explanation is poor, yet an epidemiologist may find the explanation good.
 Thus, the requirement seems to work for some explanations and fail for others.
+
+We have seen that the I-S model provides us with reasonable requirements for what constitutes a scientific explanation.
+The model worked well for our first explanation but suffered from several problems: (i) it is difficult to say what is relevant in a scientific explanation, and (ii) we do not know whether we should always require explanations to be inductively strong arguments. 
