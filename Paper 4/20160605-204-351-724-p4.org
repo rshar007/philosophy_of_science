@@ -12,20 +12,31 @@
 #+LATEX_HEADER: \doublespacing
 #+LATEX_HEADER: \large
 
-* Introduction
-
 Will people visiting the Rio Olympic games bring back a Mosquito-born virus when they return home this summer?
 There is a scientific explanation to tell us why this could happen.
 But what is a good scientific explanation?
-Philosophers have studied the issue of explanations for millenia.
+Philosophers have studied the issue of explanations for millennia.
 In this paper I will discuss Carl Hempel and Paul Oppenheim's Inductive Statistical model (I-S model), which tells us what a good scientific explanation is.
 
 Before discussing the I-S model, I would like to give an explanation that we can apply the model to later.
 Recent psychological research has revealed that disrupting brain activity during sleep reduces your ability to form memories of experiences earlier in the day.
 Let us call this the sleep-memory association.
-Now consider a twenty-year-old guy living in West Los Angeles. 
+Now consider a twenty-year-old guy living in West Los Angeles.
 Carl is a pre-med student at UCLA, hoping to become a cardiologist one day.
 Carl's classes require him to recall many facts about human anatomy.
 Unfortunately, Carl has become an insomniac in his twenties; he rarely gets more than three hours of continuous sleep.
-For illustrative purposes, let us label these statements: (i) sleep-memory association, (ii) Carl is a student who needs to recall many facts, and (iii)
-Carl's sleep is constantly interupted. 
+For illustrative purposes, let us label these premises: (i) sleep-memory association, (ii) Carl is a student who needs to recall many facts, and (iii)
+Carl's sleep is constantly interrupted.
+Keeping sleep deprived Carl in mind, let us now turn to the I-S model.
+Finally, let us label the statement, ``Carl did poorly during his last quarter at UCLA,'' as a conclusion.
+
+In other words, we would like an explanation for his poor performance.
+If we want a good explanation, we need premises that do the explaining and a conclusion, which needs to be explained.
+We call the former the explanans and we call the latter the explanandum.
+According to the I-S model, we need to have the explanans and the explanandum, and they need to be in the right order.
+Consider an explanation for why Carl did poorly during his last quarter, in which we swap premise (i) for our conclusion.
+We know have an argument which does not follow from its premises: Carl did poorly during his last quarter at UCLA.
+Carl is a student who needs to recall many facts.
+Carl's sleep is constantly interrupted.
+Therefore, we can conclude the sleep-memory association.
+Thus, it seems reasonable for any good scientific explanation to have explanatia and an explanandum.
