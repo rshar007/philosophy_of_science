@@ -45,3 +45,13 @@ Again, suppose we wanted an explanation for Carl's lousy academic performance la
 Further suppose we used all the premises we had listed above as reasons to explain his performance but, in fact, it was not true that Carl sleeps poorly.
 Then, it seems like a bad explanation to say that Carl did poorly this quarter because he does not sleep well, when in fact we know that Carl gets eight hours of sleep every night.
 Thus, it seems reasonable to require scientific explanations have premises, which are true.
+
+The I-S model has a third requirement, which fits well with the model's statistical nature: at least one of the premises must be a statistical law of nature, without which the argument would not be valid.
+The sleep-memory association premise is our explanation's statistical law of nature premise.
+Considering our explanation about Carl again, suppose that we omitted the sleep-memory association premise.
+In fact, it might seem natural to say that our explanation is still good explanation; however, I think there are at least two problems with this intuition.
+First, there seems to be an unstated premise if we omit the sleep-memory association premise.
+Consider another an explanation for why a rock fell to the ground:
+(i) Carl was holding a rock, (ii) Carl let go of the rock, (conclusion) the rock fell to the ground.
+The argument seems valid because there is an unspoken intuition about gravity.
+Secondly, remember that the I-S model tells us what a scientific explanation looks like and an explanation that relies on intuition is not a good scientific argument.
