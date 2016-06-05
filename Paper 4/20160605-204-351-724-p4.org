@@ -60,3 +60,14 @@ The I-S model also requires a scientific explanation to have premises that are a
 Suppose that in our explanation about Carl's grades we instead said that Carl did poorly on his tests because an angel named Dina whispers wrong answers into Carl's ears whenever Carl is taking a test.
 Given that there is no way to verify supernatural phenomena, this argument would be a poor way to scientifically explain Carl's academic performance.
 Thus, it seems reasonable that the I-S model requires a scientific explanation to have premises that are all empirically verifiable.
+
+The last requirement of a scientific explanation is known as the requirement of maximum specificity; an explanation should include relevant premises.
+Consider the explanation about Carl's performance at school, adding a fourth premise: Carl has always done well in school, despite his insomnia.
+Given this last premise, our conclusion that ``Carl did poorly during his last quarter at UCLA,'' seems unlikely and unjustified.
+Thus, it seems reasonable to require a scientific explanation to include all relevant premises, since a conclusion's likelihood can be dramatically altered by a single premise.
+
+There is a problem, however, with the requirement of maximum specificity; the requirement is vague.
+It is difficult to say precisely what is relevant and what is not.
+Given our example explanation, should what other information should we include about Carl's sleeping habits?
+We could include information about the time he goes to bed, the amount of noise in his room, the amount of REM sleep that he gets, or the quality of his mattress.
+In short, there could be any number of premises that may be relevant.
