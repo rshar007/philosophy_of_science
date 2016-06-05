@@ -1,6 +1,6 @@
 #+AUTHOR: 204-351-724
 #+TITLE: UCLA Philosophy 08: Paper Assignment #3
-#+bind: org-export-publishing-directory "./exports"
+
 #+OPTIONS: toc:nil
 #+OPTIONS: date:nil
 #+OPTIONS: author:nil
@@ -13,3 +13,19 @@
 #+LATEX_HEADER: \large
 
 * Introduction
+
+Will people visiting the Rio Olympic games bring back a Mosquito-born virus when they return home this summer?
+Is there a good scientific explanation to tell us why this could happen?
+Philosophers have studied the issue of explanations for millenia.
+In this paper I will discuss Carl Hempel and Paul Oppenheim's Inductive Statistical model (I-S model), which tells us what a good scientific explanation is.
+
+Before discussing the I-S model, I would like to give an explanation that we can apply the model to later.
+Recent psychological research has revealed that disrupting brain activity during sleep reduces your ability to form memories of experiences earlier in the day.
+# this last sentence is not clear, see if it can be rewritten 
+Let us call this the sleep-memory association.
+Now consider a twenty-year-old guy living in West Los Angeles. 
+Carl is a pre-med student at UCLA, hoping to become a cardiologist one day.
+Carl's classes require him to recall many facts about human anatomy.
+Unfortunately, Carl has become an insomniac in his twenties; he rarely gets more than three hours of continuous sleep.
+For illustrative purposes, let us label these statements: (i) sleep-memory association, (ii) Carl is a student who needs to recall many facts, and (iii)
+Carl's sleep is constantly interupted. 
