@@ -30,7 +30,6 @@ Carl's sleep is constantly interrupted.
 Keeping sleep deprived Carl in mind, let us now turn to the I-S model.
 Finally, let us label the statement, ``Carl did poorly during his last quarter at UCLA,'' as a conclusion.
 
-In other words, we would like an explanation for his poor performance.
 If we want a good explanation, we need premises that do the explaining and a conclusion, which needs to be explained.
 We call the former the explanans and we call the latter the explanandum.
 According to the I-S model, we need to have the explanans and the explanandum, and they need to be in the right order.
